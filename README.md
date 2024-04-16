@@ -1,4 +1,4 @@
-Hola 👋 Mi nombre es Vixis
+Hola 👋 Soy Vixis
 ======================
 
 Ingeniero de Sistemas
