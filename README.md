@@ -100,6 +100,7 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
     <td>
       <img alt=".NET" src="https://img.shields.io/badge/.NET-%23fff?style=for-the-badge&logo=.NET&logoColor=%23fff&labelColor=%23000&color=%23512BD4">
       <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%23fff?style=for-the-badge&logo=Google%20Cloud&logoColor=%23fff&labelColor=%23000&color=%234285F4">
+      <img alt="Astro" src="https://img.shields.io/badge/Astro-%23fff?style=for-the-badge&logo=Astro&logoColor=%23fff&labelColor=%23000&color=%23BC52EE">
       <img alt="Django" src="https://img.shields.io/badge/Django-%23fff?style=for-the-badge&logo=Django&logoColor=%23fff&labelColor=%23000&color=%23092E20">
       <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23fff?style=for-the-badge&logo=Laravel&logoColor=%23fff&labelColor=%23000&color=%23FF2D20">
       <img alt="Linux" src="https://img.shields.io/badge/Linux-%23fff?style=for-the-badge&logo=Linux&logoColor=%23fff&labelColor=%23000&color=%23FCC624">
