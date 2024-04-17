@@ -51,7 +51,6 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
     <td>
       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23fff?style=for-the-badge&logo=HTML5&logoColor=%23fff&labelColor=%23000&color=%23E34F26">
       <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23fff?style=for-the-badge&logo=CSS3&logoColor=%23fff&labelColor=%23000&color=%231572B6">
-      <img alt="Angular" src="https://img.shields.io/badge/Angular-%23fff?style=for-the-badge&logo=Angular&logoColor=%23fff&labelColor=%23000&color=%230F0F11">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23fff?style=for-the-badge&logo=Bootstrap&logoColor=%23fff&labelColor=%23000&color=%237952B3">
     </td>
   </tr>
