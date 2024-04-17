@@ -25,7 +25,6 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23fff?style=for-the-badge&logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23F7DF1E">
       <img alt="Java" src="https://img.shields.io/badge/Java-%23fff?style=for-the-badge&logo=Java&logoColor=%23fff&labelColor=%23000&color=%23EE4C2C">
       <img alt="Python" src="https://img.shields.io/badge/Python-%23fff?style=for-the-badge&logo=Python&logoColor=%23fff&labelColor=%23000&color=%233776AB">
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23fff?style=for-the-badge&logo=TypeScript&logoColor=%23fff&labelColor=%23000&color=%233178C6">
       <img alt="PHP" src="https://img.shields.io/badge/Php-%23fff?style=for-the-badge&logo=Php&logoColor=%23fff&labelColor=%23000&color=%23777BB4">
       <img alt="Git" src="https://img.shields.io/badge/Git-%23fff?style=for-the-badge&logo=Git&logoColor=%23fff&labelColor=%23000&color=%23F05032">
     </td>
@@ -52,47 +51,30 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
     <td>
       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23fff?style=for-the-badge&logo=HTML5&logoColor=%23fff&labelColor=%23000&color=%23E34F26">
       <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23fff?style=for-the-badge&logo=CSS3&logoColor=%23fff&labelColor=%23000&color=%231572B6">
-      <img alt="React" src="https://img.shields.io/badge/React-%23fff?style=for-the-badge&logo=React&logoColor=%23fff&labelColor=%23000&color=%2361DAFB">
       <img alt="Angular" src="https://img.shields.io/badge/Angular-%23fff?style=for-the-badge&logo=Angular&logoColor=%23fff&labelColor=%23000&color=%230F0F11">
-      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-%23fff?style=for-the-badge&logo=TailwindCSS&logoColor=%23fff&labelColor=%23000&color=%2306B6D4">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23fff?style=for-the-badge&logo=Bootstrap&logoColor=%23fff&labelColor=%23000&color=%237952B3">
-      <img alt="Redux" src="https://img.shields.io/badge/Redux-%23fff?style=for-the-badge&logo=Redux&logoColor=%23fff&labelColor=%23000&color=%23764ABC">
-      <img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23fff?style=for-the-badge&logo=Svelte&logoColor=%23fff&labelColor=%23000&color=%23FF3E00">
-      <img alt="Remix" src="https://img.shields.io/badge/Remix-%23fff?style=for-the-badge&logo=Remix&logoColor=%23fff&labelColor=%23000&color=%23000000">
     </td>
   </tr>
   <tr style="background-color:#f8f9fa;">
     <td><strong>Backend</strong></td>
     <td>
       <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23fff?style=for-the-badge&logo=Node.JS&logoColor=%23fff&labelColor=%23000&color=%23339933">
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23fff?style=for-the-badge&logo=FastAPI&logoColor=%23fff&labelColor=%23000&color=%23009688">
-      <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23fff?style=for-the-badge&logo=GraphQL&logoColor=%23fff&labelColor=%23000&color=%23E10098">
-      <img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23fff?style=for-the-badge&logo=Oracle&logoColor=%23fff&labelColor=%23000&color=%23F80000">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23fff?style=for-the-badge&logo=MySQL&logoColor=%23fff&labelColor=%23000&color=%234479A1">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgre%20SQL-%23fff?style=for-the-badge&logo=PostgreSQL&logoColor=%23fff&labelColor=%23000&color=%234169E1">
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23fff?style=for-the-badge&logo=Firebase&logoColor=%23fff&labelColor=%23000&color=%23FFCA28">
       <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23fff?style=for-the-badge&logo=Heroku&logoColor=%23fff&labelColor=%23000&color=%23430098">
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-%23fff?style=for-the-badge&logo=Flask&logoColor=%23fff&labelColor=%23000&color=%23000000">
-      <img alt="Render" src="https://img.shields.io/badge/Render-%23fff?style=for-the-badge&logo=Render&logoColor=%23fff&labelColor=%23000&color=%2346E3B7">
-      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%23fff?style=for-the-badge&logo=Supabase&logoColor=%23fff&labelColor=%23000&color=%233FCF8E">
     </td>
   </tr>
   <tr style="background-color:#f8f9fa;">
     <td><strong>Android</strong></td>
     <td>
       <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%23fff?style=for-the-badge&logo=Android%20Studio&logoColor=%23fff&labelColor=%23000&color=%233DDC84">
-      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23fff?style=for-the-badge&logo=Kotlin&logoColor=%23fff&labelColor=%23000&color=%237F52FF">
-      <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%23fff?style=for-the-badge&logo=Ionic&logoColor=%23fff&labelColor=%23000&color=%233880FF">
-      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%23fff?style=for-the-badge&logo=Flutter&logoColor=%23fff&labelColor=%23000&color=%2302569B">
     </td>
   </tr>
   <tr>
     <td><strong>Videojuegos</strong></td>
     <td>
       <img alt="C#" src="https://img.shields.io/badge/C%23-%23fff?style=for-the-badge&logo=C%23&logoColor=%23fff&labelColor=%23000&color=%23512BD4">
-      <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-%23fff?style=for-the-badge&logo=Unreal%20Engine&logoColor=%23fff&labelColor=%23000&color=%230E1128">
-      <img alt="Godot Engine" src="https://img.shields.io/badge/Godot%20Engine-%23fff?style=for-the-badge&logo=Godot%20Engine&logoColor=%23fff&labelColor=%23000&color=%23478CBF">
-      <img alt="Unity" src="https://img.shields.io/badge/Unity-%23fff?style=for-the-badge&logo=Unity&logoColor=%23fff&labelColor=%23000&color=%23FFFFFF">
     </td>
   </tr>
   <tr>
