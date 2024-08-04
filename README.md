@@ -107,19 +107,8 @@ Todo lo que estudio y en lo que trabajo ya está respaldado por certificados, t�
 
 <b>Mis Estadísticas de GitHub</b>
 
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/Vixito"><img src="https://github-readme-stats.vercel.app/api?username=Vixito&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Vixito's GitHub stats" /></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/Vixito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vixito&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/Vixito" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixito&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
-    </td>
-  </tr>
-</table>
+<a href="http://www.github.com/Vixito"><img src="https://github-readme-stats.vercel.app/api?username=Vixito&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Vixito's GitHub stats" /></a><a href="http://www.github.com/Vixito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vixito&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+<a href="https://github.com/Vixito" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixito&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
 
 
 ### Apóyame <3
