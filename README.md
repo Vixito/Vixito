@@ -11,6 +11,7 @@ Todo lo que estudio y en lo que trabajo ya está respaldado por certificados, t�
 * ⚡  No seas superficial, cuestiona todo y pregunta el porqué. ¡Así desarrollamos más nuestro pensamiento!
 
 [![Twitch Status](https://img.shields.io/twitch/status/vixisgg?style=for-the-badge&logo=twitch&logoColor=%23fff&labelColor=%239146FF&color=%23000&link=https%3A%2F%2Fwww.twitch.tv%2Fvixisgg)](https://www.twitch.tv/vixisgg)
+<br>![](https://komarev.com/ghpvc/?username=Vixito&base=3&style=for-the-badge)
 > ✅ Encuéntrame en todas mis redes:  
 > [![Linktree](https://img.shields.io/badge/Linktree-%23fff?style=for-the-badge&logo=Linktree&logoColor=%23fff&labelColor=%23000&color=%2343E55E
 )](https://linktr.ee/Vixis)
@@ -61,7 +62,6 @@ Todo lo que estudio y en lo que trabajo ya está respaldado por certificados, t�
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23fff?style=for-the-badge&logo=MySQL&logoColor=%23fff&labelColor=%23000&color=%234479A1">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23fff?style=for-the-badge&logo=PostgreSQL&logoColor=%23fff&labelColor=%23000&color=%234169E1">
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23fff?style=for-the-badge&logo=Firebase&logoColor=%23fff&labelColor=%23000&color=%23FFCA28">
-      <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23fff?style=for-the-badge&logo=Heroku&logoColor=%23fff&labelColor=%23000&color=%23430098">
     </td>
   </tr>
   <tr style="background-color:#f8f9fa;">
@@ -77,18 +77,27 @@ Todo lo que estudio y en lo que trabajo ya está respaldado por certificados, t�
     </td>
   </tr>
   <tr>
+    <td><strong>Nube</strong></td>
+    <td>
+      <img alt="Azure" src="https://img.shields.io/badge/Azure-23fff?style=for-the-badge&logo=Azure&logoColor=white&logoSize=auto&labelColor=black&color=%23035BDA">
+      <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23fff?style=for-the-badge&logo=Cloudflare&logoColor=%23fff&labelColor=%23000&color=%23F38020">
+      <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%23fff?style=for-the-badge&logo=Google%20Cloud&logoColor=%23fff&labelColor=%23000&color=%234285F4">
+      <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23fff?style=for-the-badge&logo=Amazon%20AWS&logoColor=%23fff&labelColor=%23000&color=%23232F3E">
+      <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23fff?style=for-the-badge&logo=Heroku&logoColor=%23fff&labelColor=%23000&color=%23430098">
+      <img alt="Microsoft Office 365" src="https://img.shields.io/badge/Microsoft%20Office%20365-23fff?style=for-the-badge&logo=Microsoft%20Office%20365&logoColor=white&logoSize=auto&labelColor=black&color=%23E64A19">
+    </td>
+  </tr>
+  <tr>
     <td><strong>Otros...</strong></td>
     <td>
       <img alt=".NET" src="https://img.shields.io/badge/.NET-%23fff?style=for-the-badge&logo=.NET&logoColor=%23fff&labelColor=%23000&color=%23512BD4">
-      <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%23fff?style=for-the-badge&logo=Google%20Cloud&logoColor=%23fff&labelColor=%23000&color=%234285F4">
       <img alt="Astro" src="https://img.shields.io/badge/Astro-%23fff?style=for-the-badge&logo=Astro&logoColor=%23fff&labelColor=%23000&color=%23BC52EE">
       <img alt="Django" src="https://img.shields.io/badge/Django-%23fff?style=for-the-badge&logo=Django&logoColor=%23fff&labelColor=%23000&color=%23092E20">
       <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23fff?style=for-the-badge&logo=Laravel&logoColor=%23fff&labelColor=%23000&color=%23FF2D20">
       <img alt="Linux" src="https://img.shields.io/badge/Linux-%23fff?style=for-the-badge&logo=Linux&logoColor=%23fff&labelColor=%23000&color=%23FCC624">
       <img alt="Squarespace" src="https://img.shields.io/badge/Squarespace-%23fff?style=for-the-badge&logo=Squarespace&logoColor=%23fff&labelColor=%23000&color=%23000000">
       <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23fff?style=for-the-badge&logo=WordPress&logoColor=%23fff&labelColor=%23000&color=%2321759B">
-      <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23fff?style=for-the-badge&logo=Cloudflare&logoColor=%23fff&labelColor=%23000&color=%23F38020">
-      <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23fff?style=for-the-badge&logo=Amazon%20AWS&logoColor=%23fff&labelColor=%23000&color=%23232F3E">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-23fff?style=for-the-badge&logo=Docker&logoColor=%23fff&labelColor=black&color=%232496ED">
     </td>
   </tr>
 </table>
@@ -98,11 +107,20 @@ Todo lo que estudio y en lo que trabajo ya está respaldado por certificados, t�
 
 <b>Mis Estadísticas de GitHub</b>
 
-<a href="http://www.github.com/Vixito"><img src="https://github-readme-stats.vercel.app/api?username=Vixito&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Vixito's GitHub stats" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/Vixito"><img src="https://github-readme-stats.vercel.app/api?username=Vixito&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Vixito's GitHub stats" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/Vixito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vixito&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Vixito" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixito&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/Vixito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vixito&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Vixito" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixito&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Apóyame <3
 
