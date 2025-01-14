@@ -65,18 +65,21 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23fff?style=for-the-badge&logo=Firebase&logoColor=%23fff&labelColor=%23000&color=%23FFCA28">
       <img alt="Supabase" src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=Supabase&logoColor=white&logoSize=auto&labelColor=black&color=%233FCF8E">
       <img alt="Redis" src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=white&logoSize=auto&labelColor=black&color=%23FF4438">
+      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=Spring%20Boot&logoColor=white&logoSize=auto&labelColor=black&color=%236DB33F">
     </td>
   </tr>
   <tr style="background-color:#f8f9fa;">
     <td><strong>Android</strong></td>
     <td>
       <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%23fff?style=for-the-badge&logo=Android%20Studio&logoColor=%23fff&labelColor=%23000&color=%233DDC84">
+      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=white&logoSize=auto&labelColor=black&color=%237F52FF">
     </td>
   </tr>
   <tr>
     <td><strong>Videojuegos</strong></td>
     <td>
       <img alt="C#" src="https://img.shields.io/badge/C%23-%23fff?style=for-the-badge&logo=C%23&logoColor=%23fff&labelColor=%23000&color=%23512BD4">
+      <img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white&logoSize=auto&labelColor=black&color=%23FFFFFF">
     </td>
   </tr>
   <tr>
@@ -88,6 +91,8 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
       <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23fff?style=for-the-badge&logo=Amazon%20AWS&logoColor=%23fff&labelColor=%23000&color=%23232F3E">
       <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23fff?style=for-the-badge&logo=Heroku&logoColor=%23fff&labelColor=%23000&color=%23430098">
       <img alt="Microsoft Office 365" src="https://img.shields.io/badge/Microsoft%20Office%20365-23fff?style=for-the-badge&logo=Microsoft%20Office%20365&logoColor=white&logoSize=auto&labelColor=black&color=%23E64A19">
+      <img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white&logoSize=auto&labelColor=black&color=%23000000">
+      <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes&logoColor=white&logoSize=auto&labelColor=black&color=%23326CE5">
     </td>
   </tr>
   <tr>
@@ -101,6 +106,7 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
       <img alt="Squarespace" src="https://img.shields.io/badge/Squarespace-%23fff?style=for-the-badge&logo=Squarespace&logoColor=%23fff&labelColor=%23000&color=%23000000">
       <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23fff?style=for-the-badge&logo=WordPress&logoColor=%23fff&labelColor=%23000&color=%2321759B">
       <img alt="Docker" src="https://img.shields.io/badge/Docker-23fff?style=for-the-badge&logo=Docker&logoColor=%23fff&labelColor=black&color=%232496ED">
+      <img alt="Zapier" src="https://img.shields.io/badge/Zapier-black?style=for-the-badge&logo=Zapier&logoColor=white&logoSize=auto&labelColor=black&color=%23FF4F00">
     </td>
   </tr>
 </table>
