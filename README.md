@@ -59,11 +59,12 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
   <tr style="background-color:#f8f9fa;">
     <td><strong>Backend</strong></td>
     <td>
-      <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23fff?style=for-the-badge&logo=Node.JS&logoColor=%23fff&labelColor=%23000&color=%23339933">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.JS-%23fff?style=for-the-badge&logo=Node.JS&logoColor=%23fff&labelColor=%23000&color=%23339933">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23fff?style=for-the-badge&logo=MySQL&logoColor=%23fff&labelColor=%23000&color=%234479A1">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23fff?style=for-the-badge&logo=PostgreSQL&logoColor=%23fff&labelColor=%23000&color=%234169E1">
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23fff?style=for-the-badge&logo=Firebase&logoColor=%23fff&labelColor=%23000&color=%23FFCA28">
       <img alt="Supabase" src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=Supabase&logoColor=white&logoSize=auto&labelColor=black&color=%233FCF8E">
+      <img alt="Redis" src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=white&logoSize=auto&labelColor=black&color=%23FF4438">
     </td>
   </tr>
   <tr style="background-color:#f8f9fa;">
