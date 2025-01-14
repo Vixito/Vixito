@@ -53,6 +53,7 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23fff?style=for-the-badge&logo=HTML5&logoColor=%23fff&labelColor=%23000&color=%23E34F26">
       <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23fff?style=for-the-badge&logo=CSS3&logoColor=%23fff&labelColor=%23000&color=%231572B6">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23fff?style=for-the-badge&logo=Bootstrap&logoColor=%23fff&labelColor=%23000&color=%237952B3">
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white&logoSize=auto&labelColor=black&color=white">
     </td>
   </tr>
   <tr style="background-color:#f8f9fa;">
@@ -62,6 +63,7 @@ Todo lo que estudio y en lo que trabajo ya est√° respaldado por certificados, t√
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23fff?style=for-the-badge&logo=MySQL&logoColor=%23fff&labelColor=%23000&color=%234479A1">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23fff?style=for-the-badge&logo=PostgreSQL&logoColor=%23fff&labelColor=%23000&color=%234169E1">
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23fff?style=for-the-badge&logo=Firebase&logoColor=%23fff&labelColor=%23000&color=%23FFCA28">
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white&logoSize=auto&labelColor=black&color=white">
     </td>
   </tr>
   <tr style="background-color:#f8f9fa;">
